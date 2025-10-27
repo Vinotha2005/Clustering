@@ -3,6 +3,9 @@
 
 This project performs Exploratory Data Analysis (EDA), data transformation, and unsupervised clustering on a dataset containing country-level statistics. It also includes a Random Forest regression model to predict income based on socio-economic features.
 
+## App:
+
+
 ## 📂 Features Covered
 
 EDA
